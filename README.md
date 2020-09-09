@@ -77,13 +77,16 @@ In `summary.md`:
   * Self-starter
   * Goals-oriented
 * In a different color, highlight skills written in the listing which _match_ skills you already have
+  * Does the listing characterize these as "required" or "desired" skills?
 * In yet a different color, highlight skills written in the listing which are _skills you would need to learn_
+  * Does the listing characterize these as "required" or "desired" skills?
 * Write a brief summary of why this particular opportunity stands out to you
 * On a scale of `1` - `5`, rate:
   * How ready you believe you are for this position
   * Your level of interest in this position
   * How practical you think this position is given your skills or knowledge gap
   
+Upload the highlighted ads as images, PDFs, or graphic file formats.
   
 #### Full-time employment
 
