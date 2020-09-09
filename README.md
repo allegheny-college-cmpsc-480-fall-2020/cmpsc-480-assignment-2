@@ -5,8 +5,8 @@
 
 ## Supporting readings
 
-*
-*
+* [Reading & Using Job Ads](https://owl.purdue.edu/owl/job_search_writing/skilled_labor_job_search_resources/reading_and_using_job_ads/index.html)
+* [How to Choose a Graduate School](https://www.northeastern.edu/graduate/blog/how-to-find-the-right-graduate-school/)
 
 ## Overview
  
