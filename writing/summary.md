@@ -1,15 +1,3 @@
-# Career Narrative
+# Career Opportunities Summary
 
-`TODO: Name Here`
-
-## Goal
-
-`TODO`
-
-## Summary
-
-`TODO`
-
-## Draft
-
-`TODO`
+`TODO: Complete activity`
