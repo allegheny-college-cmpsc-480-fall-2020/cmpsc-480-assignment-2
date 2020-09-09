@@ -42,10 +42,10 @@ If you're not sure which area(s) you'd like to pursue, it's important to start t
 
 In `summary.md`, add information which profiles various graduate school programs. This isn't a final list; this exercise will introduce you to the process of finding more applicable or interesting programs. It's designed to give you transferrable skills to use and begin exploring on your own.
 
-- [] Find up to five (5) programs that you're interested in
+- [ ] Find up to five (5) programs that you're interested in
   * Rank them `1` - `5` based on your current interest
   * Label each entry with the school name and personal rank
-- [] In application guidelines and requirements find:
+- [ ] In application guidelines and requirements find:
   * Required exams, minimum scores
   * Number and type of transcripts required
   * Requirements for personal statements
@@ -70,8 +70,8 @@ Allegheny College offers connections to several resources via the office of Care
 
 In `summary.md`:
 
-- [] Find three (3) listings that you're interested in
-- [] For each listing:
+- [ ] Find three (3) listings that you're interested in
+- [ ] For each listing:
 * Choose a color. Highlight key words that you think describe the kind of worker the listing is lookign for. These include:
   * Detail-oriented
   * Self-starter
@@ -109,8 +109,8 @@ The resources listed above apply, but the following are focused on recent gradua
 
 In `summary.md`:
 
-- [] Find three (3) listings that you're interested in
-- [] For each listing:
+- [ ] Find three (3) listings that you're interested in
+- [ ] For each listing:
 * Choose a color. Highlight key words that you think describe the kind of worker the listing is lookign for. These include:
   * Detail-oriented
   * Self-starter
